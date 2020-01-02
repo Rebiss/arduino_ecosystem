@@ -2,9 +2,9 @@
 
 ![alt-text](https://docs.allthingstalk.com/images/examples/kits/arduino_board.png)
 
-[Arduino documentation](https://www.arduino.cc/)
+[Arduino Documentation](https://www.arduino.cc/)
 
-[Github](https://github.com/arduino/)
+[Github Project](https://github.com/arduino/)
 
 # What is Arduino?
 
@@ -15,4 +15,5 @@ Over the years Arduino has been the brain of thousands of projects, from everyda
 Arduino was born at the Ivrea Interaction Design Institute as an easy tool for fast prototyping, aimed at students without a background in electronics and programming. As soon as it reached a wider community, the Arduino board started changing to adapt to new needs and challenges, differentiating its offer from simple 8-bit boards to products for IoT applications, wearable, 3D printing, and embedded environments. All Arduino boards are completely open-source, empowering users to build them independently and eventually adapt them to their particular needs. The software, too, is open-source, and it is growing through the contributions of users worldwide.
 
 [Install the Arduino Software (IDE) on Windows PCs](https://www.arduino.cc/en/Guide/Windows)
+
 [Install the Arduino Software (IDE) on Linux](https://www.arduino.cc/en/Guide/Linux)
