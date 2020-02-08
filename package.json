@@ -1,0 +1,23 @@
+{
+  "name": "arduino",
+  "version": "1.0.0",
+  "description": "![alt-text](https://docs.allthingstalk.com/images/examples/kits/arduino_board.png)",
+  "main": "index.js",
+  "dependencies": {
+    "johnny-five": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rebiss/arduino_ecosystem.git"
+  },
+  "author": "Rebiss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rebiss/arduino_ecosystem/issues"
+  },
+  "homepage": "https://github.com/Rebiss/arduino_ecosystem#readme"
+}
